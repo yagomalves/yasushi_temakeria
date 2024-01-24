@@ -225,17 +225,23 @@ section{
     max-width: 60rem;
 }
 
+.home .content span{
+    text-transform: uppercase;
+    color: var(--main-color);
+}
+
 .home .content h3{
-    font-size: 6rem;
+    font-size: 5rem;
     text-transform: uppercase;
     color: #fff;
 }
 
 .home .content p{
-    font-size: 1rem;
+    text-transform: none;
+    font-size: 1.8rem;
     font-weight: bold;
-    line-height: 1.8;
-    padding: 1rem 0;
+    line-height: 1.5;
+    padding: 2rem 0;
     color: var(--black);
 }
 
@@ -384,6 +390,10 @@ section{
     padding: 3rem 2rem;
 }
 
+.review .box-container .box img{
+    height: 10rem;
+}
+
 .review .box-container .box p{
     font-size: 1.5rem;
     line-height: 1.8;
@@ -432,9 +442,10 @@ section{
     text-transform: uppercase;
     font-size: 3.5rem;
     color: #fff;
+    padding-bottom: 2rem;
 }
 
-.contact .row form .inputBox {
+/* .contact .row form .inputBox {
     display: flex;
     align-items: center;
     margin-top: 2rem;
@@ -456,7 +467,31 @@ section{
     color: #fff;
     text-transform: none;
     background: none;
+} */
+
+
+.contact-info-container a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
 }
+
+.contact-info-container img{
+    height: 3rem;
+    margin: 0 1.5rem;
+}
+
+.contact-info-container p {
+    text-transform: none;
+    color: #fff;
+    font-size: 1.8rem;
+}
+
+.contact-info-container p:hover {
+    color: var(--main-color);
+}
+
 
 .blogs .box-container {
     display: grid;
