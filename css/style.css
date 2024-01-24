@@ -272,8 +272,9 @@ section{
 
 .about .row .content p {
     font-size: 1.6rem;
+    text-transform: none;
     color: #ccc;
-    padding: 1rem 0;
+    padding: 2rem 0;
     line-height: 1.8;
 }
 
@@ -396,6 +397,7 @@ section{
 
 .review .box-container .box p{
     font-size: 1.5rem;
+    text-transform: none;
     line-height: 1.8;
     color: #ccc;
     padding: 2rem 0;
