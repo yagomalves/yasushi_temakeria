@@ -601,6 +601,10 @@ section{
 
 .footer .credit span{
     color: var(--main-color);
+    font-weight: 300;
+}
+.footer .credit span:hover {
+    background: var(--black);
 }
 
 /* MEDIA QUERIES */
