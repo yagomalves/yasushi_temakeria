@@ -21,3 +21,5 @@ Oferecer uma presença online simples, bonita e funcional para o restaurante, co
 👨‍💻 Resultado
 
 Este projeto não é apenas uma landing page, mas também um marco no meu recomeço como desenvolvedor. Estou animado para continuar evoluindo e explorando novos desafios no mundo do desenvolvimento web.
+
+<img width="679" height="538" alt="screenshot" src="https://github.com/user-attachments/assets/986fa8d7-4a42-458c-af4f-06b309c1b434" />
